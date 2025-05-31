@@ -18,5 +18,5 @@ TechNews is a technology-focused news website developed using HTML and CSS. The 
 - Organizing content into well-defined sections.
 - Building a modular, maintainable layout.
 
-👩‍💻 Author
+👩‍💻 Author<br>
 Developed by Fernanda Lamas, created by Rocketseat.
